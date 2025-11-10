@@ -1,1 +1,1 @@
-# proactive-secret-sharing
+# Proactive Secret Sharing
